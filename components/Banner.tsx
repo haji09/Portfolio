@@ -26,12 +26,7 @@ const Banner = () => {
         transition={{duration:0.5, delay: 0.8}}
         className="text-base md:max-w-[650px] text-textDark font-medium">
             {""}
-            After graduation, I cleared two times INET (Indian Navy Entrance Test)
-and once UPSC CDS (Combined Defense Service) exam. After that, I
-worked as a graphic designer for some duration, and after this, I want
-to look forward to the career, I have learned web development and
-made a portfolio website using Next.js which includes some projects
-and I am currently looking for a front-end web developer role.
+            I am a graphic designer & front-end web developer.
         </motion.p>
         <motion.button 
         initial={{y:10, opacity:0}}
