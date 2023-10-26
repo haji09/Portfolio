@@ -43,7 +43,7 @@ const Navbar = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <Image className="w-24 " src={logo} alt="logo" />
+          <Image className="w-20 h-14 " src={logo} alt="logo" />
         </motion.div>
         <div className="hidden mdl:inline-flex items-center gap-7">
           <ul className="flex text-[20px] gap-7">
